@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng" xml:lang="en-US">
+ <team><team_key>466.l.12345.t.3</team_key><name>Splash Zone</name>
+  <matchups count="1"><matchup>
+   <week>1</week><week_start>2026-10-20</week_start><week_end>2026-10-26</week_end><status>midevent</status><is_playoffs>0</is_playoffs>
+   <stat_winners count="3">
+    <stat_winner><stat_id>12</stat_id><winner_team_key>466.l.12345.t.3</winner_team_key></stat_winner>
+    <stat_winner><stat_id>15</stat_id><winner_team_key>466.l.12345.t.5</winner_team_key></stat_winner>
+    <stat_winner><stat_id>16</stat_id><is_tied>1</is_tied></stat_winner>
+   </stat_winners>
+   <teams count="2">
+    <team><team_key>466.l.12345.t.3</team_key><name>Splash Zone</name>
+     <team_stats><coverage_type>week</coverage_type><week>1</week><stats><stat><stat_id>12</stat_id><value>420</value></stat><stat><stat_id>15</stat_id><value>150</value></stat><stat><stat_id>16</stat_id><value>90</value></stat></stats></team_stats>
+     <team_points><coverage_type>week</coverage_type><week>1</week><total>1</total></team_points>
+     <team_remaining_games><coverage_type>week</coverage_type><week>1</week><total><remaining_games>12</remaining_games><live_games>0</live_games><completed_games>20</completed_games></total></team_remaining_games>
+    </team>
+    <team><team_key>466.l.12345.t.5</team_key><name>Rivals</name>
+     <team_stats><coverage_type>week</coverage_type><week>1</week><stats><stat><stat_id>12</stat_id><value>400</value></stat><stat><stat_id>15</stat_id><value>170</value></stat><stat><stat_id>16</stat_id><value>90</value></stat></stats></team_stats>
+     <team_points><coverage_type>week</coverage_type><week>1</week><total>1</total></team_points>
+    </team>
+   </teams>
+  </matchup></matchups>
+ </team>
+</fantasy_content>

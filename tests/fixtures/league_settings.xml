@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng" xml:lang="en-US">
+ <league>
+  <league_key>466.l.12345</league_key><league_id>12345</league_id><name>Office League</name>
+  <url>https://basketball.fantasysports.yahoo.com/nba/12345</url><num_teams>10</num_teams>
+  <scoring_type>head</scoring_type><current_week>1</current_week>
+  <start_date>2026-10-20</start_date><end_date>2027-04-12</end_date>
+  <settings>
+   <uses_faab>1</uses_faab><waiver_type>R</waiver_type><waiver_time>2</waiver_time><max_weekly_adds>4</max_weekly_adds>
+   <roster_positions>
+    <roster_position><position>PG</position><position_type>P</position_type><count>1</count><is_starting_position>1</is_starting_position></roster_position>
+    <roster_position><position>SG</position><position_type>P</position_type><count>1</count><is_starting_position>1</is_starting_position></roster_position>
+    <roster_position><position>G</position><position_type>P</position_type><count>1</count><is_starting_position>1</is_starting_position></roster_position>
+    <roster_position><position>C</position><position_type>P</position_type><count>1</count><is_starting_position>1</is_starting_position></roster_position>
+    <roster_position><position>Util</position><position_type>P</position_type><count>1</count><is_starting_position>1</is_starting_position></roster_position>
+    <roster_position><position>BN</position><count>2</count><is_starting_position>0</is_starting_position></roster_position>
+    <roster_position><position>IL</position><count>1</count><is_starting_position>0</is_starting_position></roster_position>
+   </roster_positions>
+   <stat_categories><stats>
+    <stat><stat_id>9004003</stat_id><enabled>1</enabled><name>Field Goals Made / Field Goals Attempted</name><display_name>FGM/A</display_name><abbr>FGM/A</abbr><sort_order>1</sort_order><is_only_display_stat>1</is_only_display_stat></stat>
+    <stat><stat_id>5</stat_id><enabled>1</enabled><name>Field Goal Percentage</name><display_name>FG%</display_name><abbr>FG%</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>8</stat_id><enabled>1</enabled><name>Free Throw Percentage</name><display_name>FT%</display_name><abbr>FT%</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>10</stat_id><enabled>1</enabled><name>3-point Shots Made</name><display_name>3PTM</display_name><abbr>3PTM</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>12</stat_id><enabled>1</enabled><name>Points Scored</name><display_name>PTS</display_name><abbr>PTS</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>15</stat_id><enabled>1</enabled><name>Total Rebounds</name><display_name>REB</display_name><abbr>REB</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>16</stat_id><enabled>1</enabled><name>Assists</name><display_name>AST</display_name><abbr>AST</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>17</stat_id><enabled>1</enabled><name>Steals</name><display_name>ST</display_name><abbr>ST</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>18</stat_id><enabled>1</enabled><name>Blocked Shots</name><display_name>BLK</display_name><abbr>BLK</abbr><sort_order>1</sort_order></stat>
+    <stat><stat_id>19</stat_id><enabled>1</enabled><name>Turnovers</name><display_name>TO</display_name><abbr>TO</abbr><sort_order>0</sort_order></stat>
+   </stats></stat_categories>
+  </settings>
+ </league>
+</fantasy_content>

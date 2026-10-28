@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng" xml:lang="en-US">
+ <users count="1"><user><guid>ABCDEF</guid>
+  <games count="1"><game><game_key>466</game_key><season>2026</season>
+   <leagues count="1"><league>
+    <league_key>466.l.12345</league_key><league_id>12345</league_id><name>Office League</name>
+    <url>https://basketball.fantasysports.yahoo.com/nba/12345</url><num_teams>10</num_teams>
+    <scoring_type>head</scoring_type><current_week>1</current_week>
+   </league></leagues>
+  </game></games>
+ </user></users>
+</fantasy_content>
